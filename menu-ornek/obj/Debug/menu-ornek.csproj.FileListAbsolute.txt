@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\menu-ornek\menu-ornek\bin\Debug\menu-ornek.exe.config
+C:\Users\User\source\repos\menu-ornek\menu-ornek\bin\Debug\menu-ornek.exe
+C:\Users\User\source\repos\menu-ornek\menu-ornek\bin\Debug\menu-ornek.pdb
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu_ornek.Form1.resources
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.exe
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu-ornek.pdb
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu_ornek.KitapEkle.resources
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu_ornek.KitapTeslim.resources
+C:\Users\User\source\repos\menu-ornek\menu-ornek\obj\Debug\menu_ornek.OgrenciEkle.resources
